@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "897265043057",
+    "project_id": "suremusic-b44dc",
+    "storage_bucket": "suremusic-b44dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897265043057:android:9b9c11f69931f1bee1bdd0",
+        "android_client_info": {
+          "package_name": "apps.sureapps.audiostreams_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-vBMtlmbaCLFVT-Yr0GLXI16zbm5PfXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897265043057:android:20fcd51ad2977983e1bdd0",
+        "android_client_info": {
+          "package_name": "sure.music"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-vBMtlmbaCLFVT-Yr0GLXI16zbm5PfXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

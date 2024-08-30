@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SurePlayMusic</string>
+
+   <string name="facebook_app_id">411659779726788</string>
+<string name="fb_login_protocol_scheme">fb411659779726788</string>
+<string name="facebook_client_token">56789</string>
+<string name="Admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+
+</resources>

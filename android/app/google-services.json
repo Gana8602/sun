@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "850487250536",
+    "project_id": "sureplaymusicapp-2025",
+    "storage_bucket": "sureplaymusicapp-2025.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850487250536:android:e36709daa958d2a22735dd",
+        "android_client_info": {
+          "package_name": "apps.sureapps.audiostreams_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsvG6gfzgDWSEM36iVZQneH2DGI7W2TzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
